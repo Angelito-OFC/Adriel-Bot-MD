@@ -19,15 +19,20 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「 Bᴏɴɴɪ💕 」
-│➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
-│➯ *Yape: 900711258
-│➯ *ғᴇᴄʜᴀ:➟${date}
-│➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
-│➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
-︎╰───────────────╯
+let str = `*╭━━❍𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭❍━━╮* 
+*┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
+*┃╭━━━━━━━━━━━━━━━━╾•* 
+*┃┃  ❍ (𝐌𝐄𝐍𝐔) ❍* 
+*┃┣━━━━━━━━━━━━━━━━╾•*  
+*┃┃ ⋄➯𝗛ᴏʟᴀ,➟${taguser}
+*┃┃ ⋄➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
+*┃┃ ⋄➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
+*┃┃ ⋄➯ *Yape: 68683798
+*┃┃ ⋄➯ғᴇᴄʜᴀ:➟${date}
+*┃┃ ⋄➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
+*┃┃ ⋄➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
+*┃╰━━━━━━━━━━━━━━━━╾•* 
+ *╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯*
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥ *Activar&apagar* ➻❥」
 │➯ */enable welcome*
