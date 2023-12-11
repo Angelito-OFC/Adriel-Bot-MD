@@ -17,15 +17,20 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓💕 」
-│➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
-│➯ *Yape: 900711258
-│➯ғᴇᴄʜᴀ:➟${date}
-│➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
-│➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
-︎╰───────────────╯
+let str = `*╭━━❍𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭❍━━╮* 
+ *┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
+ *┃╭━━━━━━━━━━━━━━━━╾•* 
+ *┃┃  ❍ ${ucapan()} ❍* 
+ *┃┣━━━━━━━━━━━━━━━━╾•*  
+ *┃┃ ⋄➯𝗛ᴏʟᴀ,➟${taguser}
+ *┃┃ ⋄➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
+ *┃┃ ⋄➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
+ *┃┃ ⋄➯ *Yape: 68683798
+ *┃┃ ⋄➯ғᴇᴄʜᴀ:➟${date}
+ *┃┃ ⋄➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
+ *┃┃ ⋄➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
+ *┃╰━━━━━━━━━━━━━━━━╾•* 
+ *╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯* 
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓 」
 │➯*Menu*+18*
@@ -59,11 +64,11 @@ let str = `╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓💕 」
 │➯ *.pene*
 │➯ *.porno*
 │➯ *.randomxxx*
-│➯⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰✍
+│➯⫷᭄©𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳✍
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 //await conn.sendFile(m.chat, vn, 'Darling.mp3', null, m, true, { type: 'audioMessage', ptt: true})
-let fkontak2 = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }  
+let fkontak2 = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nite𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳m1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }  
 conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: fkontak2 })  
 } else {    
 //await conn.sendFile(m.chat, vn, 'Darling.mp3', null, m, true, { type: 'audioMessage', ptt: true})
