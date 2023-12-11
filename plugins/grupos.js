@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
+await m.reply(`╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓 」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓 」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
 let pp = imagen1
 let vn = './Audios/naa.mp3'
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
@@ -18,34 +18,24 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 Bᴏɴɴɪ💕 」
+let str = `╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓💕 」
 │➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
-│➯ *Yape: 900711258
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
+│➯ *Yape: 68683798
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥*Grupos y cuentas*➻❥」
-│➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
-│➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
-│➯𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰
-│➯https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF
-│➯𝚙á𝚐𝚒𝚗𝚊 𝚍𝚎 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔
-│➯https://www.facebook.com/groups/987464505464904/?ref=share
-│➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎
-│➯https://youtube.com/@hades_bot2391
-│➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚍𝚒𝚜𝚌𝚘𝚛𝚍 
-│➯https://discord.gg/nQVWW6xv
+│➯𝙺𝙰𝚁𝙸𝙼-𝚂𝙷𝙾𝙿
+│➯https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP
+│➯𝙰𝙳𝚁𝙸𝙴𝙻/𝙰𝚁𝙸 𝙱𝙾𝚃𝚂
+│➯https://chat.whatsapp.com/FSTDvp5lQkrEAXeH8374Jt
 │➯INSTAGRAM
-│➯https://instagram.com/ofc.yovani.bot?igshid=ZDc4ODBmNjlmNQ==
-│➯KIKTOK
-│➯https://vm.tiktok.com/ZM2rbFWnr/
-︎╰───────────────╯`.trim()
+│➯https://instagram.com/bots_md?igshid=OGQ5ZDc2ODk2ZA==
+╰─────────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
 let fkontak2 = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }  
