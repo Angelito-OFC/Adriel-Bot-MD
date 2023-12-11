@@ -33,7 +33,7 @@ teks += `ㅤ
 ╰───────────────๑❀๑ •`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
-handler.help = ['smsf00 <mesaje>','fem00 <mesaje>']
+handler.help = ['smsf18 <mesaje>','fem18 <mesaje>']
 handler.tags = ['group']
 handler.command = /^(smsf18|fem18)$/i
 handler.admin = true
