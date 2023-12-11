@@ -76,7 +76,20 @@ let fsizedoc = '1'.repeat(10)
 let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardingScore: fsizedoc, externalAdReply: { showAdAttribution: true, title: wm, body: '👋 ' + username, mediaUrl: ig, description: 'Hola', previewType: 'PHOTO', thumbnail: await(await fetch(global.img)).buffer(), sourceUrl: redesMenu.getRandom() }}}
 
 
-let menu = `⌜ *${wm}* ⌟  
+let menu = `*╭━━❍𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭❍━━╮* 
+*┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
+*┃╭━━━━━━━━━━━━━━━━╾•* 
+*┃┃  ❍ (𝐌𝐄𝐍𝐔) ❍* 
+*┃┣━━━━━━━━━━━━━━━━╾•*  
+*┃┃ ⋄➯𝗛ᴏʟᴀ,➟${taguser}
+*┃┃ ⋄➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
+*┃┃ ⋄➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
+*┃┃ ⋄➯ *Yape: 68683798
+*┃┃ ⋄➯ғᴇᴄʜᴀ:➟${date}
+*┃┃ ⋄➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
+*┃┃ ⋄➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
+*┃╰━━━━━━━━━━━━━━━━╾•* 
+ *╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯  
 
 *Hola ${taguser}*
 
