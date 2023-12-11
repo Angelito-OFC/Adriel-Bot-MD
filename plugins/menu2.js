@@ -18,11 +18,11 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 Bᴏɴɴɪ💕 」
+let str = `╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓💕 」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
-│➯ *Yape: 900711258
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
+│➯ *Yape: 68683798
 │➯ *ғᴇᴄʜᴀ:➟${date}
 │➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
@@ -244,7 +244,7 @@ let str = `╭「 Bᴏɴɴɪ💕 」
 │➯ *Y este quien es*
 │➯ *Y este quien*
 │➯ *Yamete-kudasai2*
-│➯⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰✍
+│➯⫷᭄©𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃✍
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
