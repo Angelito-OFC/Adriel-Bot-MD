@@ -76,46 +76,47 @@ let fsizedoc = '1'.repeat(10)
 let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardingScore: fsizedoc, externalAdReply: { showAdAttribution: true, title: wm, body: '👋 ' + username, mediaUrl: ig, description: 'Hola', previewType: 'PHOTO', thumbnail: await(await fetch(global.img)).buffer(), sourceUrl: redesMenu.getRandom() }}}
 
 
-let menu = `*╭━━❍𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭❍━━╮* 
- *┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
- *┃╭━━━━━━━━━━━━━━━━╾•* 
- *┃┃  ❍ ${ucapan()} ❍* 
- *┃┣━━━━━━━━━━━━━━━━╾•* 
- *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/59176181985 (𝐍𝐎 𝐁𝐎𝐓)* 
- *┃┃ ⋄ VERSION » {1.1.0}* 
- *┃┃ ⋄ FECHA » ${week}, ${date}* 
- *┃┃ ⋄ TIEMPO ACTIVO » ${uptime}* 
- *┃┃ ⋄ LIBRERIA » ${library}* 
- *┃┃ ⋄ USUARIOS » ${Object.keys(global.db.data.users).length}* 
- *┃╰━━━━━━━━━━━━━━━━╾•* 
- *╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯*
+let menu = `*╭━━❍𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓❍━━╮*
+*┃ ╭━━━━━━━━━━━━━━━━╮*
+*┃ ┃ ╭┈────────────╮*
+*┃ ┃ │❍  𝐌𝐄𝐍𝐔 ❍*
+*┃ ┃ ╰┈────────────╯*
+*┃ ╰━━━━━━━━━━━━━━━━╯*
+*┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*
+*┃╭━━━━━━━━━━━━━━━━╾•* 
+*┃┃  ❍ ${ucapan()} ❍* 
+*┃┣━━━━━━━━━━━━━━━━╾•* 
+*┃┃ ⋄ NUMERO DEL CREADOR: wa.me/59176181985 (𝐍𝐎 𝐁𝐎𝐓)* 
+*┃┃ ⋄ VERSION » {1.1.0}* 
+*┃┃ ⋄ FECHA » ${week}, ${date}* 
+*┃┃ ⋄ TIEMPO ACTIVO » ${uptime}* 
+*┃┃ ⋄ LIBRERIA » ${library}* 
+*┃╰━━━━━━━━━━━━━━━━╾•* 
+*┃┃ ⋄ *🎖️ Nivel:* ${level}
+*┃┃ ⋄ *💎 Diamantes:* ${limit}
+*┃┃ ⋄ *👾 AdriCoins:* ${money}
+*┃┃ ⋄ *🪙 Tokens:* ${joincount}
+*┃┃ ⋄ *🧰 Experiencia:* ${exp}
+*┃┃ ⋄ *⚓ Rango:* ${role}
+*┃┃ ⋄ ${readMore}
+*┃╰━━━━━━━━━━━━━━━━╾•*
+*╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯*
 
-◉ _*INFO DEL USUARIO*_
-□ *🙌 Registrado:* ${user.registered === true ? '✅' : '❌ _#verificar_'}
-□ *🎟️ Premium:* ${user.premiumTime > 0 ? '✅' : '❌ _#pase premium_'}
-□ *🔰 Mi estado:* ${typeof user.miestado !== 'string' ? '_#miestado || Estado no asignado_' : '_Me siento ' + user.miestado + '_'}
-□ *🎖️ Nivel:* ${level}
-□ *💎 Diamantes:* ${limit}
-□ *👾 ZeroCoins:* ${money}
-□ *🪙 Tokens:* ${joincount}
-□ *🧰 Experiencia:* ${exp}
-□ *⚓ Rango:* ${role}
-${readMore}
+╭━〔💭𝙋𝘼𝙍𝘼 𝘾𝙊𝙈𝙋𝙍𝘼𝙍💭〕━⬣
+│☭ .precios*
+╰━━━━━━━━━━━━━━━━╾•
 
-□ *PARA COMPRAR EL BOT*
-.precios
-
-┌───⊷ *INFO DEL BOT*
-┊□ _${usedPrefix}infobot_
-┊□ _${usedPrefix}grupos_
-┊□ _${usedPrefix}instalarbot_
-┊□️ _${usedPrefix}menu2_
-┊□ _${usedPrefix}estado_
-┊□ _${usedPrefix}sc_
-┊□ _${usedPrefix}ping_
-┊□ _Bot_
-┊□ _¿Qué es un Bot?_
-┊□ _Términos y condiciones_
+╭━〔🎈𝙄𝙉𝙁𝙊 𝘿𝙀𝙇 𝘽𝙊𝙏🎈〕━⬣*
+│☭ _${usedPrefix}infobot_
+│☭ _${usedPrefix}grupos_
+│☭ _${usedPrefix}instalarbot_
+│☭ _${usedPrefix}menu2_
+│☭ _${usedPrefix}estado_
+│☭ _${usedPrefix}sc_
+│☭ _${usedPrefix}ping_
+│☭ _Bot_
+│☭ _¿Qué es un Bot?_
+│☭ _Términos y condiciones_
 └─────────────
 
 ┌───⊷ *UNER UN BOT A TU GRUPO*
@@ -128,6 +129,11 @@ ${readMore}
 ┆ 🤖 _${usedPrefix}stop_
 ┆ 🤖 _${usedPrefix}bots_
 └─────────────
+
+╭━〔🗺️𝙈𝘼𝙋𝘼𝙎 𝙑𝙎🗺️〕━⬣
+│☭
+│☭
+│☭
 
 ┌───⊷ *JUEGOS*
 ┆ *conando para la diversión del tu Grupos*
