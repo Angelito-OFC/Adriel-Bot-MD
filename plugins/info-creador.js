@@ -2,23 +2,23 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│➯ Gabi Bot
-│➯Wa.me/5491127914352 (CREADOR)
-│➯Wa.me/5491127914352 (CREADOR) 
-│➯Wa.me/5491127914352 (CREADOR)
-│➯Wa.me/5491127914352  (CREADOR)
+│➯ 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓
+│➯Wa.me/59176181985 (CREADOR)
+│➯Wa.me/59176181985 (CREADOR) 
+│➯Wa.me/59176181985 (CREADOR)
+│➯Wa.me/59176181985 (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/Nayee22` },
+'document': { url: `https://github.com/Karim-off` },
 'mimetype': `application/${document}`,
-'fileName': `Gabi x Naye🗣️`,
+'fileName': `KARIM.DZN🗣️`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Nayee22',
+'mediaUrl': 'https://github.com/Karim-off',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
