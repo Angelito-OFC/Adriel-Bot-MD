@@ -77,31 +77,18 @@ let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardi
 
 
 let menu = `*╭━━❍𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭❍━━╮* 
-*┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
-*┃╭━━━━━━━━━━━━━━━━╾•* 
-*┃┃  ❍ (𝐌𝐄𝐍𝐔) ❍* 
-*┃┣━━━━━━━━━━━━━━━━╾•*  
-*┃┃ ⋄➯𝗛ᴏʟᴀ,➟${taguser}
-*┃┃ ⋄➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
-*┃┃ ⋄➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
-*┃┃ ⋄➯ *Yape: 68683798
-*┃┃ ⋄➯ғᴇᴄʜᴀ:➟${date}
-*┃┃ ⋄➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
-*┃┃ ⋄➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
-*┃╰━━━━━━━━━━━━━━━━╾•* 
- *╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯  
-
-*Hola ${taguser}*
-
-□ *Creador: TheZero*
-□ *Numero del creador: wa.me/59897463355*
-□ *Numero de la Creadora2: wa.me/51967647592*
-□ *Tiempos activos :* *${uptime}*
-□ *Usuarios:* *${Object.keys(global.db.data.users).length}*
-□ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
-    
-□ *PARA COMPRAR EL BOT*
-.precios
+ *┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
+ *┃╭━━━━━━━━━━━━━━━━╾•* 
+ *┃┃  ❍ ${ucapan()} ❍* 
+ *┃┣━━━━━━━━━━━━━━━━╾•* 
+ *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/59176181985 (𝐍𝐎 𝐁𝐎𝐓)* 
+ *┃┃ ⋄ VERSION » {1.1.0}* 
+ *┃┃ ⋄ FECHA » ${week}, ${date}* 
+ *┃┃ ⋄ TIEMPO ACTIVO » ${uptime}* 
+ *┃┃ ⋄ LIBRERIA » ${library}* 
+ *┃┃ ⋄ USUARIOS » ${Object.keys(global.db.data.users).length}* 
+ *┃╰━━━━━━━━━━━━━━━━╾•* 
+ *╰━━━╼𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭╾━━━╯*
 
 ◉ _*INFO DEL USUARIO*_
 □ *🙌 Registrado:* ${user.registered === true ? '✅' : '❌ _#verificar_'}
@@ -114,6 +101,10 @@ let menu = `*╭━━❍𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭❍━━╮*
 □ *🧰 Experiencia:* ${exp}
 □ *⚓ Rango:* ${role}
 ${readMore}
+
+□ *PARA COMPRAR EL BOT*
+.precios
+
 ┌───⊷ *INFO DEL BOT*
 ┊□ _${usedPrefix}infobot_
 ┊□ _${usedPrefix}grupos_
