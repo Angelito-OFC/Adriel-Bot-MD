@@ -164,61 +164,56 @@ let menu = `*╭━━❍𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓❍━━╮*
 │☭🎮 _${usedPrefix}ppt *<papel / tijera /piedra>*_
 │☭️🎮 _${usedPrefix}prostituto *<nombre / @tag>*_
 │☭🎮 _${usedPrefix}prostituta *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}gay2 *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}lesbiana *<nombre / @tag>*_
-┆ ඬ⃟ 🕹 _${usedPrefix}pajero *<nombre / @tag>*_
-┆ ඬ⃟ 🕹 _${usedPrefix}pajera *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}puto *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}puta *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}manco *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}manca *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}rata *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}love *<nombre / @tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}doxear *<nombre / @tag>*_
-┆ ඬ⃟ 🕹 _${usedPrefix}pregunta *<texto>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}suitpvp *<@tag>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}slot *<apuesta>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}ttt *<nombre sala>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}delttt_
-┆ ඬ⃟ 🕹️ _${usedPrefix}simi *<texto>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}top *<texto>*_
-┆ ඬ⃟ 🕹️ _${usedPrefix}topotakus_
-┆ ඬ⃟🕹️️ _${usedPrefix}top10gays_
-┆ ඬ⃟🕹️️ _${usedPrefix}toplind@s_
-┆ ඬ⃟🕹️️ _${usedPrefix}topput@s_
-┆ ඬ⃟🕹️️ _${usedPrefix}toppajer@s_
-┆ ඬ⃟🕹️️ _${usedPrefix}topotakus_
-┆ ඬ⃟🕹️️ _${usedPrefix}topintegrantes_
-┆ ඬ⃟🕹️️ _${usedPrefix}toplagrasa_
-┆ ඬ⃟🕹️️ _${usedPrefix}toppanafrescos_
-┆ ඬ⃟🕹️ _${usedPrefix}topshiposters_
-┆ ඬ⃟🕹️️ _${usedPrefix}toppajeros_
-┆ ඬ⃟🕹️️ _${usedPrefix}toplind@s_
-┆ ඬ⃟🕹️️ _${usedPrefix}topfamosos_
-┆ ඬ⃟🕹️️ _${usedPrefix}topsoltero
-┆ ඬ⃟🕹️️ _${usedPrefix}topparejas_
-┆ ඬ⃟ 🕹️ _${usedPrefix}formarpareja_
-┆ ඬ⃟ 🕹️ _${usedPrefix}verdad_
-┆ ඬ⃟ 🕹️ _${usedPrefix}reto_
-┆ ඬ⃟ 🕹️ _${usedPrefix}cancion_
-┆ ඬ⃟ 🕹️ _${usedPrefix}pista_
-┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┆ 💞 𝙋𝙖𝙧𝙚𝙟𝙖𝙨
-┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┆ *Declarate con alguien*
-┆ *para que sean Parejas!!*
-┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┆ ඬ⃟ ❤️➺ _${usedPrefix}listaparejas_
-┆ ඬ⃟ ❤️➺ _${usedPrefix}mipareja_
-┆ ඬ⃟ ❤️➺ _${usedPrefix}pareja *@tag*_
-┆ ඬ⃟ ❤️➺ _${usedPrefix}aceptar *@tag*_
-┆ ඬ⃟ ❤️➺ _${usedPrefix}rechazar *@tag*_
-┆ ඬ⃟ ❤️➺ _${usedPrefix}terminar *@tag*_
-└─────────────
-
-┌───⊷ *NUMERO DEL CREADOR*
-┆ඬ⃟ 🤖 _${usedPrefix}owner_
-└─────────────
+│☭🎮 _${usedPrefix}gay2 *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}lesbiana *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}pajero *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}pajera *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}puto *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}puta *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}manco *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}manca *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}rata *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}love *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}doxear *<nombre / @tag>*_
+│☭🎮 _${usedPrefix}pregunta *<texto>*_
+│☭🎮 _${usedPrefix}suitpvp *<@tag>*_
+│☭🎮 _${usedPrefix}slot *<apuesta>*_
+│☭🎮 _${usedPrefix}ttt *<nombre sala>*_
+│☭🎮 _${usedPrefix}delttt_
+│☭🎮 _${usedPrefix}simi *<texto>*_
+│☭🎮 _${usedPrefix}top *<texto>*_
+│☭🎮 _${usedPrefix}topotakus_
+│☭🎮 _${usedPrefix}top10gays_
+│☭🎮 _${usedPrefix}toplind@s_
+│☭🎮 _${usedPrefix}topput@s_
+│☭🎮 _${usedPrefix}toppajer@s_
+│☭🎮 _${usedPrefix}topotakus_
+│☭🎮 _${usedPrefix}topintegrantes_
+│☭🎮 _${usedPrefix}toplagrasa_
+│☭🎮 _${usedPrefix}toppanafrescos_
+│☭🎮 _${usedPrefix}topshiposters_
+│☭🎮 _${usedPrefix}toppajeros_
+│☭🎮 _${usedPrefix}toplind@s_
+│☭🎮 _${usedPrefix}topfamosos_
+│☭🎮 _${usedPrefix}topsoltero
+│☭🎮 _${usedPrefix}topparejas_
+│☭🎮 _${usedPrefix}formarpareja_
+│☭🎮 _${usedPrefix}verdad_
+│☭🎮 _${usedPrefix}reto_
+│☭🎮 _${usedPrefix}cancion_
+│☭🎮 _${usedPrefix}pista_
+╰─────────────────╯
+╭━〔💞𝙋𝘼𝙍𝙀𝙅𝘼𝙎💞〕━⬣
+│𝙳𝚎𝚌𝚕𝚊𝚛𝚊𝚝𝚎 𝚌𝚘𝚗 𝚊𝚕𝚐𝚞𝚒𝚎𝚗 
+│𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚜𝚎𝚊𝚗 𝙿𝚊𝚛𝚎𝚓𝚊𝚜!!
+│┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+│☭💞 _${usedPrefix}listaparejas_
+│☭💞 _${usedPrefix}mipareja_
+│☭💞 _${usedPrefix}pareja *@tag*_
+│☭💞 _${usedPrefix}aceptar *@tag*_
+│☭💞 _${usedPrefix}rechazar *@tag*_
+│☭💞 _${usedPrefix}terminar *@tag*_
+╰─────────────────╯
 
 ┌───⊷ *ACTIVA O DESACTIVAR*
 ┆ *Configura si eres Propietario(a) y/o*
