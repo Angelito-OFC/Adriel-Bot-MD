@@ -6,7 +6,7 @@ if (m.text.includes('PIEDRA') || m.text.includes('PAPEL') || m.text.includes('TI
 let chat = global.db.data.chats[m.chat]
 let bot = global.db.data.settings[this.user.jid] || {}
 if (bot.antiPrivate && !isOwner && !isROwner) {
-await m.reply(`*Hola @${m.sender.split`@`[0]}, NO PUEDE USAR ESTE BOT EN CHAT PRIVADO*\n\nUnirte al Grupo oficial del bot para poder usar el bot\n${nn}`, false, { mentions: [m.sender] })
+await m.reply(`*𝙃𝙤𝙡𝙖 @${m.sender.split`@`[0]}, 𝙉𝙊 𝙋𝙐𝙀𝘿𝙀 𝙐𝙎𝘼𝙍 𝙀𝙎𝙏𝙀 𝘽𝙊𝙏 𝙀𝙉 𝘾𝙃𝘼𝙏 𝙋𝙍𝙄𝙑𝘼𝘿𝙊*\n\n𝙐𝙣𝙞𝙧𝙩𝙚 𝙖𝙡 𝙂𝙧𝙪𝙥𝙤 𝙤𝙛𝙞𝙘𝙞𝙖𝙡 𝙙𝙚𝙡 𝙗𝙤𝙩 𝙥𝙖𝙧𝙖 𝙥𝙤𝙙𝙚𝙧 𝙪𝙨𝙖𝙧 𝙚𝙡 𝙗𝙤𝙩\n${nn}`, false, { mentions: [m.sender] })
 await this.updateBlockStatus(m.chat, 'block')}
 return !1
 }
