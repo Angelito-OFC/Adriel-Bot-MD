@@ -5,7 +5,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 if (!args[0]) throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝚄𝙽 𝙴𝙽𝙻𝙰𝙲𝙴 𝚅𝙰𝙻𝙸𝙳𝙾 𝙳𝙴 𝙼𝙴𝙳𝙸𝙰𝙵𝙸𝚁𝙴, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾: ${usedPrefix + command} https://www.mediafire.com/file/h9x1bgb79vmllkn/OFC-HADES-BOT.zip/file*`
 try {
 let json = await mediafireDl2(args[0])
-let caption = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let caption = `╭「 𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭 」
 │🍀*𝙽𝙾𝙼𝙱𝚁𝙴:*  ${json[0].nama.replace('+', ' ')}
 │💎*𝙿𝙴𝚂𝙾:* ${json[0].size}
 │🌴*𝚃𝙸𝙿𝙾:* ${json[0].mime.toUpperCase()}
@@ -18,7 +18,7 @@ conn.sendMessage(m.chat, { document : { url: json[0].link }, fileName : json[0].
 try {  
 let res = await mediafiredl(args[0])
 let { url, url2, filename, ext, aploud, filesize, filesizeH } = await res
-let caption = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let caption = `╭「 𝐀𝐝𝐫𝐢𝐞𝐥-𝐛𝐨𝐭 」
 │🍀*𝙽𝙾𝙼𝙱𝚁𝙴:* ${filename}
 │💎*𝙿𝙴𝚂𝙾:* ${filesizeH}
 │🌴*𝚃𝙸𝙿𝙾:* ${ext}
