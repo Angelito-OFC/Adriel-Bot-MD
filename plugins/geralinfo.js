@@ -20,28 +20,43 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃」
 │🍁 *𝙷𝙾𝙻𝙰 𝚀𝚄𝙴 𝚃𝙰𝙻-${taguser}
-│🍁 **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:51935763050*
+│🍁 *𝚃𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙾 𝚂𝙾𝚈 𝙺𝙰𝚁𝙸𝙼-𝙳𝚉𝙽
+│🍁 *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:+59176181985
 │🍁 *𝚃𝙴𝙽𝙶𝙾 𝙳𝙸𝙵𝙴𝚁𝙴𝙽𝚃𝙴𝚂 𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙿𝙰𝚁𝙰 𝙼𝙸𝚂 𝙱𝙾𝚃𝙲𝙸𝚃𝙾𝚂
 ︎╰───────────────╯
-🍁᭢━━━━━𝙶𝙴𝚁𝙰𝙻-𝙱𝙾𝚃━━━━᭥🍁᭢
-╭「𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐑」
-│-𝙿𝙰𝚁𝙰 𝙴𝚂𝚃𝙴 𝙱𝙾𝚃 𝚃𝙴𝙽𝙶𝙾 𝙴𝙻 𝙱𝙾𝚃 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃𝙴- 𝙱𝙾𝚃 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻𝙸𝚉𝙰𝙳𝙾- 𝙱𝙾𝚃 𝙿𝚁𝙾𝙿𝙸𝙾𝚂
-│😼𝙱𝙾𝚃 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃𝙴:  Este bot lleva una personalizacion del creador es permanente y no tiene limite de grupos y te enseño a programarlo y aque tu mismo lo pongas en un numero
-│😼𝙱𝙾𝚃 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻𝙸𝚉𝙰𝙳𝙾:  Este vendria ser un bot permanente de igual manera pero con lleva una personalizacion DE TU CLAN O TEAM O COMUNIDAD O E-SPORT Sin limite de grupos
-│😼𝙱𝙾𝚃 𝙿𝚁𝙾𝙿𝙸𝙾:  Este es un bot con permiso de venta aclaro que este bot es el unico que puede ser vendido y lleva la personalizacion que tu quieras mas veloz y sin limite de grupos
-╰───────────────╯
-╭「𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
-│💌BOT MENSUAL : Este bot es unido a 3 grupos mediante a link por todo 1 MES
-│💌BOT TRIMESTRAL : Este Bot es unido a 4 grupos mediante a link por 3 MESES
-│💌BOT PERMANENTE : Bot unido a 3 grupos mediante a links de forma permanente(No me hago responsable si sacan al bot del grupo)
-│💌BOT PERMANENTE PLUS :Bot unido a 5 grupos mediante a links de forma permanente(No me hago responsable si sacan al bot del grupo)
+🍁᭢━━━━━━━━━᭥🍁᭢
+╭「𝐈𝐍𝐅𝐎 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
+│💌𝘽𝙊𝙏 𝙈𝙀𝙉𝙎𝙐𝘼𝙇 :
+│
+│𝘌𝘴𝘵𝘦 𝘣𝘰𝘵 𝘦𝘴 𝘶𝘯𝘪𝘥𝘰 𝘢 3 𝘨𝘳𝘶𝘱𝘰𝘴 𝘮𝘦𝘥𝘪𝘢𝘯𝘵𝘦 
+│𝘢 𝘭𝘪𝘯𝘬 𝘱𝘰𝘳 𝘵𝘰𝘥𝘰 1 𝘔𝘌𝘚
+│
+│💌𝘽𝙊𝙏 𝙏𝙍𝙄𝙈𝙀𝙎𝙏𝙍𝘼𝙇 : 
+│
+│𝘌𝘴𝘵𝘦 𝘉𝘰𝘵 𝘦𝘴 𝘶𝘯𝘪𝘥𝘰 𝘢 4 𝘨𝘳𝘶𝘱𝘰𝘴 𝘮𝘦𝘥𝘪𝘢𝘯𝘵𝘦 
+│𝘢 𝘭𝘪𝘯𝘬 𝘱𝘰𝘳 3 𝘔𝘌𝘚𝘌𝘚
+│
+│💌𝘽𝙊𝙏 𝙋𝙀𝙍𝙈𝘼𝙉𝙀𝙉𝙏𝙀 : 
+│
+│𝘉𝘰𝘵 𝘶𝘯𝘪𝘥𝘰 𝘢 3 𝘨𝘳𝘶𝘱𝘰𝘴 𝘮𝘦𝘥𝘪𝘢𝘯𝘵𝘦 
+│𝘢 𝘭𝘪𝘯𝘬𝘴 𝘥𝘦 𝘧𝘰𝘳𝘮𝘢 𝘱𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵𝘦
+│(𝘕𝘰 𝘮𝘦 𝘩𝘢𝘨𝘰 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘢𝘣𝘭𝘦 𝘴𝘪 
+│𝘴𝘢𝘤𝘢𝘯 𝘢𝘭 𝘣𝘰𝘵 𝘥𝘦𝘭 𝘨𝘳𝘶𝘱𝘰)
+│
+│💌𝘽𝙊𝙏 𝙋𝙀𝙍𝙈𝘼𝙉𝙀𝙉𝙏𝙀 𝙋𝙇𝙐𝙎 :
+│
+│𝘉𝘰𝘵 𝘶𝘯𝘪𝘥𝘰 𝘢 5 𝘨𝘳𝘶𝘱𝘰𝘴 𝘮𝘦𝘥𝘪𝘢𝘯𝘵𝘦 
+│𝘢 𝘭𝘪𝘯𝘬𝘴 𝘥𝘦 𝘧𝘰𝘳𝘮𝘢 𝘱𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵𝘦
+│(𝘕𝘰 𝘮𝘦 𝘩𝘢𝘨𝘰 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘢𝘣𝘭𝘦
+│ 𝘴𝘪 𝘴𝘢𝘤𝘢𝘯 𝘢𝘭 𝘣𝘰𝘵 𝘥𝘦𝘭 𝘨𝘳𝘶𝘱𝘰)
+│
 ╰───────────────╯
 ╭「𝐀𝐂𝐋𝐀𝐑𝐀𝐂𝐈𝐎𝐍𝐄𝐒」
-│🤖NO HAGO VIDA SOCIAL AL PRIVAD
-│🤖NO HAGO REMBOLSOS SI NO ESTAS SEGUR@ DE COMPRAR ALGO NO LO HAGAS
-│🤖NO INTERCAMBIO PAQUETE DE BOTS PROGRAMADOR POR PAQUETE DE BOTS UNIDOS POR LINKS
-│🤖NO REGALO NADA, SOLO HAGO DESCUENTOS ALOS QUE YA AN SIDO CLIENTES O SI COMPRAN MAS COSAS
-╭🤖EL BOT PERMANENTE - BOT PERSONALIZADO TIENE PROHIBIDA SU VENTA
+│🐼NO HAGO VIDA SOCIAL AL PRIVAD
+│🐼NO HAGO REMBOLSOS SI NO ESTAS SEGUR@ DE COMPRAR ALGO NO LO HAGAS
+│🐼NO INTERCAMBIO PAQUETE DE BOTS PROGRAMADOR POR PAQUETE DE BOTS UNIDOS POR LINKS
+│🐼NO REGALO NADA, SOLO HAGO DESCUENTOS ALOS QUE YA AN SIDO CLIENTES O SI COMPRAN MAS COSAS
+╭🐼EL BOT PERMANENTE - BOT PERSONALIZADO TIENE PROHIBIDA SU VENTA
 ╰───────────────╯`.trim()
 if (m.isGroup) {
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
@@ -54,7 +69,7 @@ conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.mat
 } catch {
 conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*', m)
 }}
-handler.command = /^(informacion|quierobot|geralinfo)$/i
+handler.command = /^(informacion|quierobot|Adrielinfo)$/i
 handler.exp = 50
 handler.register = true
 handler.fail = null
