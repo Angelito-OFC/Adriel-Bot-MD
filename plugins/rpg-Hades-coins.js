@@ -7,7 +7,7 @@ global.db.data.users[m.sender].money += hades * 1
 let time = global.db.data.users[m.sender].lastcoins + 600000
 if (new Date - global.db.data.users[m.sender].lastcoins < 600000) throw `✴️ʏᴀ ʜᴀs ᴍɪʀᴀᴅᴏ ⚔️ʜᴀᴅᴇs-ᴄᴏɪɴs ᴇsᴘᴇʀᴀ ᴘᴀʀᴀ ᴠᴏʟᴠᴇʀ ᴀ ᴍɪɴᴀʀ${msToTime(time - new Date())} ᴘᴀʀᴀ ᴠᴏʟᴠᴇʀ ᴀ ᴍɪɴᴀʀ⚔️`  
 
-m.reply(`*[ 🧿 ] 𝙶𝚎𝚗𝚒𝚊𝚕, 𝚖𝚒𝚗𝚊𝚜𝚝𝚎 ${minar3} ${hades} ʜᴀᴅᴇs-ᴄᴏɪɴs💰*`)
+m.reply(`*[ 🧿 ] 𝙶𝚎𝚗𝚒𝚊𝚕, 𝚖𝚒𝚗𝚊𝚜𝚝𝚎 ${minar3} ${hades} ᴀᴅʀɪ-ᴄᴏɪɴꜱ💰*`)
 global.db.data.users[m.sender].lastcoins = new Date * 1  
 
 }
