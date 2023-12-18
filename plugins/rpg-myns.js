@@ -7,6 +7,6 @@ m.reply(`┏┅ ━━━━━━━━━━━━ ┅ ━
 ┗┅ ━━━━━━━━━━━━ ┅ ━`.trim())}
 handler.help = ['myns']
 handler.tags = ['xp']
-handler.command = /^(myns|ceksn)$/i
+handler.command = /^(myns|ceksn|nserie)$/i
 handler.register = true
 export default handler
