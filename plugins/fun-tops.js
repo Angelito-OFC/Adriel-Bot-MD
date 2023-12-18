@@ -19,22 +19,22 @@ let j = ps.getRandom()
 
 if (command == 'topgays') {
 let vn = './media/gay2.mp3'
-let top = `*🌈TOP 10 GAYS/LESBIANAS DEL GRUPO🌈*
+let top = `🌈𝙏𝙊𝙋 10 𝙂𝘼𝙔𝙎/𝙇𝙀𝙎𝘽𝙄𝘼𝙉𝘼𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊🌈
     
 *_1.- 🏳️‍🌈 ${user(a)}_* 🏳️‍🌈
-*_2.- 🪂 ${user(b)}_* 🪂
-*_3.- 🪁 ${user(c)}_* 🪁
+*_2.- 🏳️‍🌈 ${user(b)}_* 🏳️‍🌈
+*_3.- 🏳️‍🌈 ${user(c)}_* 🏳️‍🌈
 *_4.- 🏳️‍🌈 ${user(d)}_* 🏳️‍🌈
-*_5.- 🪂 ${user(e)}_* 🪂
-*_6.- 🪁 ${user(f)}_* 🪁
+*_5.- 🏳️‍🌈 ${user(e)}_* 🏳️‍🌈
+*_6.- 🏳️‍🌈 ${user(f)}_* 🏳️‍🌈
 *_7.- 🏳️‍🌈 ${user(g)}_* 🏳️‍🌈
-*_8.- 🪂 ${user(h)}_* 🪂
-*_9.- 🪁 ${user(i)}_* 🪁
+*_8.- 🏳️‍🌈 ${user(h)}_* 🏳️‍🌈
+*_9.- 🏳️‍🌈 ${user(i)}_* 🏳️‍🌈
 *_10.- 🏳️‍🌈 ${user(j)}_* 🏳️‍🌈`
 m.reply(top, null, { mentions: conn.parseMention(top) })
 //m.reply(top, null, {
 
-//m.reply(conn.sendHydrated(m.chat, `*SON MUY GAYS!!* 🌈`, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+//m.reply(conn.sendHydrated(m.chat, `*SON MUY GAYS!!* 🌈`, wm, null, md, '𝘼𝙙𝙧𝙞𝙚𝙡𝘽𝙤𝙩-𝙈𝘿', null, null, [
 //['𝙊𝙩𝙧𝙖 𝙫𝙚𝙯 | 𝘼𝙜𝙖𝙞𝙣 🔮', `${usedPrefix + command}`],
 //['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
 //], m))
@@ -62,7 +62,7 @@ let top = `*🌸 TOP 10 OTAKUS DEL GRUPO 🌸*
 *_10.- 🌷 ${user(j)}_* 🌷`
 m.reply(top, null, { mentions: conn.parseMention(top) })
 //m.reply(top, null, {
-//conn.sendHydrated(m.chat, top, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+//conn.sendHydrated(m.chat, top, wm, null, md, '𝘼𝙙𝙧𝙞𝙚𝙡𝘽𝙤𝙩-𝙈𝘿', null, null, [
 //['𝙊𝙩𝙧𝙖 𝙫𝙚𝙯 | 𝘼𝙜𝙖𝙞𝙣 🔮', `${usedPrefix + command}`],
 //['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
 //], m, null, {
@@ -75,7 +75,7 @@ ptt: true
 })}
    
 if (command == 'topintegrantes') {
-let top = `*_💎TOP 10 L@S MEJORES INTEGRANTES👑_*
+let top = `_💎𝙏𝙊𝙋 10 𝙇@𝙎 𝙈𝙀𝙅𝙊𝙍𝙀𝙎 𝙄𝙉𝙏𝙀𝙂𝙍𝘼𝙉𝙏𝙀𝙎👑_
     
 *_1.- 💎 ${user(a)}_* 💎
 *_2.- 👑 ${user(b)}_* 👑
@@ -90,7 +90,7 @@ let top = `*_💎TOP 10 L@S MEJORES INTEGRANTES👑_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topintegrante') {
-let top = `*_💎TOP 10 L@S MEJORES INTEGRANTES👑_*
+let top = `_💎𝙏𝙊𝙋 10 𝙇@𝙎 𝙈𝙀𝙅𝙊𝙍𝙀𝙎 𝙄𝙉𝙏𝙀𝙂𝙍𝘼𝙉𝙏𝙀𝙎👑_
     
 *_1.- 💎 ${user(a)}_* 💎
 *_2.- 👑 ${user(b)}_* 👑
@@ -135,7 +135,7 @@ let top = `*_Uwu TOP 10 LA GRASA Uwu_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'toppanafrescos') {
-let top = `*_👊TOP 10 PANAFRESCOS👊_* 
+let top = `_👊𝙏𝙊𝙋 10 𝙋𝘼𝙉𝘼𝙁𝙍𝙀𝙎𝘾𝙊𝙎👊_ 
     
 *_1.- 🤑 ${user(a)}_* 🤑
 *_2.- 🤙 ${user(b)}_* 🤙
@@ -150,7 +150,7 @@ let top = `*_👊TOP 10 PANAFRESCOS👊_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'toppanafresco') {
-let top = `*_👊TOP 10 PANAFRESCOS👊_* 
+let top = `_👊𝙏𝙊𝙋 10 𝙋𝘼𝙉𝘼𝙁𝙍𝙀𝙎𝘾𝙊𝙎👊_ 
     
 *_1.- 🤑 ${user(a)}_* 🤑
 *_2.- 🤙 ${user(b)}_* 🤙
@@ -165,7 +165,7 @@ let top = `*_👊TOP 10 PANAFRESCOS👊_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topshiposters') {
-let top = `*_😱TOP 10 SHIPOSTERS DEL GRUPO😱_* 
+let top = `_😱𝙏𝙊𝙋 10 𝙎𝙃𝙄𝙋𝙊𝙎𝙏𝙀𝙍𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊😱_ 
     
 *_1.- 😈 ${user(a)}_* 😈
 *_2.- 🤙 ${user(b)}_* 🤙
@@ -180,7 +180,7 @@ let top = `*_😱TOP 10 SHIPOSTERS DEL GRUPO😱_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topcachudos') {
-let top = `*_😱TOP 10 CACHUDOS DEL GRUPO😱_* 
+let top = `_😱𝙏𝙊𝙋 10 𝘾𝘼𝘾𝙃𝙐𝘿𝙊𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊😱_ 
     
 *_1.- 🦌 ${user(a)}_* 🦌
 *_2.- 🦌 ${user(b)}_* 🦌
@@ -195,7 +195,7 @@ let top = `*_😱TOP 10 CACHUDOS DEL GRUPO😱_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'toppajer@s') {
-let top = `*_😏TOP L@S MAS PAJEROS/AS DEL GRUPO💦_* 
+let top = `_😏𝙏𝙊𝙋 𝙇@𝙎 𝙈𝘼𝙎 𝙋𝘼𝙅𝙀𝙍𝙊𝙎/𝘼𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊💦_ 
     
 *_1.- 🥵 ${user(a)}_* 💦
 *_2.- 🥵 ${user(b)}_* 💦
@@ -210,7 +210,7 @@ let top = `*_😏TOP L@S MAS PAJEROS/AS DEL GRUPO💦_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'toplind@s') {
-let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
+let top = `_😳𝙏𝙊𝙋 𝙇@𝙎 𝙈𝘼𝙎 𝙇𝙄𝙉𝘿@𝙎 𝙔 𝙎𝙀𝙓𝙄𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊😳_
     
 *_1.- ✨ ${user(a)}_* ✨
 *_2.- ✨ ${user(b)}_* ✨
@@ -225,7 +225,7 @@ let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'toplindos') {
-let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
+let top = `_😳𝙏𝙊𝙋 𝙇@𝙎 𝙈𝘼𝙎 𝙇𝙄𝙉𝘿@𝙎 𝙔 𝙎𝙀𝙓𝙄𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊😳_
     
 *_1.- ✨ ${user(a)}_* ✨
 *_2.- ✨ ${user(b)}_* ✨
@@ -240,7 +240,7 @@ let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topput@s') {
-let top = `*_😏TOP L@S MAS PUT@S DEL GRUPO SON🔥_* 
+let top = `_😏𝙏𝙊𝙋 𝙇@𝙎 𝙈𝘼𝙎 𝙋𝙐𝙏@𝙎 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊 𝙎𝙊𝙉🔥_
     
 *_1.- 👉 ${user(a)}_* 👌
 *_2.- 👉 ${user(b)}_* 👌
@@ -255,7 +255,7 @@ let top = `*_😏TOP L@S MAS PUT@S DEL GRUPO SON🔥_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topfamosos') {
-let top = `*_🌟TOP PERSONAS FAMOSAS EN EL GRUPO🌟_* 
+let top = `_🌟𝙏𝙊𝙋 𝙋𝙀𝙍𝙎𝙊𝙉𝘼𝙎 𝙁𝘼𝙈𝙊𝙎𝘼𝙎 𝙀𝙉 𝙀𝙇 𝙂𝙍𝙐𝙋𝙊🌟_ 
     
 *_1.- 🛫 ${user(a)}_* 🛫
 *_2.- 🥂 ${user(b)}_* 🥂
@@ -270,7 +270,7 @@ let top = `*_🌟TOP PERSONAS FAMOSAS EN EL GRUPO🌟_*
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topfamos@s') {
-let top = `*_🌟TOP PERSONAS FAMOSAS EN EL GRUPO🌟_* 
+let top = `_🌟𝙏𝙊𝙋 𝙋𝙀𝙍𝙎𝙊𝙉𝘼𝙎 𝙁𝘼𝙈𝙊𝙎𝘼𝙎 𝙀𝙉 𝙀𝙇 𝙂𝙍𝙐𝙋𝙊🌟_ 
     
 *_1.- 🛫 ${user(a)}_* 🛫
 *_2.- 🥂 ${user(b)}_* 🥂
