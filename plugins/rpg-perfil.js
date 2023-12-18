@@ -13,14 +13,14 @@ let { name, role, level, limit, money, exp, joincount, lastclaim, registered, re
 let username = conn.getName(who)
 let prem = global.prems.includes(who.split `@` [0])
 let sn = createHash('md5').update(who).digest('hex')
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 𝐀𝐝𝐫𝐢𝐞𝐥 𝐁𝐨𝐭 」
 │➯ *𝙽𝙾𝙼𝙱𝚁𝙴:* ${username} ${registered ? '(' + name + ') ': ''}
 │➯ *🌐𝙻𝙸𝙽𝙺:* wa.me/${who.split`@`[0]}${registered ? '\n*𝙴𝙳𝙰𝙳:* ' + age + ' años' : ''}
 │➯ *Rango:* ${role}
 │➯ *✳️️Nivel:* ${level}
 │➯ *🧿Experiencia:* ${exp}
 │➯ *💎Diamantes:* ${limit} 𝚄𝚂𝙾𝚂
-│➯ *👾Hades-Coins:* ${money}
+│➯ *👾Adri-Coins:* ${money}
 │➯ *🪙Tokens:* ${joincount}
 │➯ *💥𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝙳𝙾:* ${registered ? 'Si': 'No'}
 │➯ *✔️𝙿𝚁𝙴𝙼𝙸𝚄𝙼:* ${premiumTime > 0 ? 'Si' : (isPrems ? 'Si' : 'No') || ''}
