@@ -10,7 +10,7 @@ let texto = `*[❗] @${m.sender.split`@`[0]} 𝙰𝙶𝚄𝙰𝚁𝙳𝙴 𝚄�
 //let buttons = [{ buttonText: { displayText: '♫ 𝙰𝚄𝙳𝙸𝙾 ♫' }, buttonId: `${usedPrefix}tomp3` }]
 try {
 let aa = { quoted: m, userJid: conn.user.jid }
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: '⫷᭄©𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳﹏✍', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/OFC-YOVANI/HADES-OMEGA' }, mentionedJid: [m.sender]}}}, aa)    
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: '⫷᭄©𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳﹏✍', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/Karim-off/Adriel-Bot-MD' }, mentionedJid: [m.sender]}}}, aa)    
 await conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })    
 const dataF = await tiktok.v1(args[0])
 //let desc1 =  `*𝙽𝙸𝙲𝙺𝙽𝙰𝙼𝙴:* ${dataF.nickname || 'Indefinido'}`
