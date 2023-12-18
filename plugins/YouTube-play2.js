@@ -17,12 +17,12 @@ additionalText = 'video 🎥'}
 let texto1 = ` ༴⃟🌹๋ོ࣭ꦿ⁩PLAY-DOCYouTube--⦿
 ----------------------------------------------------------------------------------------------------------
 ⇄    ◁   ㅤ  ❚❚ㅤ   ▷ㅤ    ↻
-➯➤͜͡🎶📌*name:* ${yt_play[0].title}
-➯➤📆 *Published:* ${yt_play[0].ago}
-➯➤⌚ *Duration:* ${secondString(yt_play[0].duration.seconds)}
-➯➤👀 *Views:* ${`${MilesNumber(yt_play[0].views)}`}
-➯➤🔗 *Link:* ${yt_play[0].url}
-▢⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍
+│☭🎶📌*name:* ${yt_play[0].title}
+│☭📆 *Published:* ${yt_play[0].ago}
+│☭⌚ *Duration:* ${secondString(yt_play[0].duration.seconds)}
+│☭👀 *Views:* ${`${MilesNumber(yt_play[0].views)}`}
+│☭🔗 *Link:* ${yt_play[0].url}
+▢⫷᭄©𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳﹏✍
 ----------------------------------------------------------------------------------------------------------`.trim()
 conn.sendMessage(m.chat, { image: { url: yt_play[0].thumbnail }, caption: texto1 }, { quoted: m })
 if (command == 'play3') {
