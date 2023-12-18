@@ -13,8 +13,8 @@ const isGroupLink = linkRegex.exec(m.text)
 if (chat.antiLink2 && isGroupLink && !isAdmin) {
 if (isBotAdmin) {
 const linkThisGroup = `https://chat.whatsapp.com/${await this.groupInviteCode(m.chat)}`
-const linkThisGroup2 = `https://www.youtube.com/`
-const linkThisGroup3 = `https://youtu.be/`
+const linkThisGroup2 = `https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP`
+const linkThisGroup3 = `https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP`
 if (m.text.includes(linkThisGroup)) return !0
 if (m.text.includes(linkThisGroup2)) return !0
 if (m.text.includes(linkThisGroup3)) return !0
