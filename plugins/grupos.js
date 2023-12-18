@@ -32,7 +32,7 @@ let str = `╭「 𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓💕 」
 │➯𝙰𝙳𝚁𝙸𝙴𝙻-𝚂𝙷𝙾𝙿
 │➯https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP
 │➯INSTAGRAM
-│➯https://instagram.com/bots_md?igshid=OGQ5ZDc2ODk2ZA==
+│➯https://www.instagram.com/usxr._.karim?igshid=OGQ5ZDc2ODk2ZA==
 ╰─────────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
