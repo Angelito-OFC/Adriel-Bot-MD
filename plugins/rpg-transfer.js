@@ -12,8 +12,8 @@ async function handler(m, { conn, args, usedPrefix, command }) {
 
 📍 Transfer Items
 ┌──────────────
-▢ *limit* = diamante
-▢ *exp* = experiencia
+│☭ *limit* = diamante
+│☭ *exp* = experiencia
 └──────────────
 `.trim()
     const type = (args[0] || '').toLowerCase()
@@ -28,7 +28,7 @@ async function handler(m, { conn, args, usedPrefix, command }) {
 
 Tienes  *60* s
 `.trim()
-    let c = '⫷᭄© 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 ✍'
+    let c = '⫷᭄©𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳 ✍'
     conn.sendButton(m.chat, confirm, c, null, [['si'], ['no']], m, { mentions: [who] })
     confirmation[m.sender] = {
         sender: m.sender,
