@@ -16,7 +16,6 @@
 ### ▢`🍀SÍGUENOS EN NUESTRAS REDES🍀`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sígueme+En+Instagram;No+seas+malx%3A3;)
-
 <a href="https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM_DEL_CREADOR-25D366?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
