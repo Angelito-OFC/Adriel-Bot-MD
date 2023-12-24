@@ -2,7 +2,7 @@
 
 > <b>🌸VERSIÓN 1.1.0</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+MD;Gracias+por+usar+este+bot+%3A3;%5B+El+Bot+mas+sexy+que+tendras+7w7r+%5D_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+MD;Gracias+por+usar+este+bot+%3A3;%5B+El+Bot+mas+sexy+que+tendras+7w7r+%5D_)(https://git.io/typing-svg)
 
 <p align="center"> 
 <a href="views/Pre Bot Publi.png"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=AdrielBot-MD++🌸; DISFRUTA+EL+REPOSITORIO.+%F0%9F%92%96" height="90px"></a> 
