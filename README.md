@@ -15,7 +15,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sígueme+En+Instagram;No+seas+malx%3A3;)
 
 <a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/
-𝐀𝐝𝐫𝐢𝐞𝐥 𝐁𝐨𝐭 -CREADOR-25D366?style=for-the-badge&logo=Instagram &logoColor=white" />
+𝐀𝐝𝐫𝐢𝐞𝐥 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=Instagram &logoColor=white" />
 
 ### ▢`⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
 
