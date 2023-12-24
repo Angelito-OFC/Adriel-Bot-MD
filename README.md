@@ -13,8 +13,7 @@
 
 <a href="https://api.whatsapp.com/send/?phone=59176181985&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href=
- target="blank"><img src="https://img.shields.io/badge/𝐀𝐃𝐑𝐈𝐄𝐋-𝐁𝐎𝐓-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sígueme+En+Instagram;No+seas+malx%3A3;)
 
