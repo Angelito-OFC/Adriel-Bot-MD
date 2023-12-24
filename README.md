@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM_DEL_CREADOR-25D366?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-### ▢`⛄ GRUPO DE VENTAS DEL BOT🧿`
+### ▢`🐼GRUPO DE VENTAS DEL BOT🐼`
 
 <a href="https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
