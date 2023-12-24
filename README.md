@@ -60,7 +60,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/GeralBot/prueba/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/Karim-off/Adriel-Bot-MD/master/install.sh | bash
 ```
 
 
@@ -80,7 +80,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/GeralBot/prueba.git && cd prueba
+git clone https://github.com/Karim-off/Adriel-Bot-MD && cd prueba
 ```
 
 ```bash
@@ -104,7 +104,7 @@ npm start
 ### ▢`ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+> cd Adriel-Bot-MD
 ```
 
 ```bash
@@ -117,7 +117,7 @@ npm start
 ### ▢`ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+> cd Adriel-Bot-MD
 ```
 
 ```bash
@@ -134,7 +134,7 @@ npm start
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
 - ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- HADES-BOT-OMEGA - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+ADRIEL-BOT-MD NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 
 ## ▢`CREADO POR OFC-KARIM.DZN` 
