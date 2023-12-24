@@ -9,50 +9,50 @@
 <img src="views/Pre Bot Publi.png" alt="GataBot-MD" width="900"/>
 </p>
 
-### ▢`🏓DUDAS SOBRE EL BOT?🍁`
+### ▢`🏓𝘿𝙐𝘿𝘼𝙎 𝙎𝙊𝘽𝙍𝙀 𝙀𝙇 𝘽𝙊𝙏?🍁`
 
 <a href="https://api.whatsapp.com/send/?phone=59176181985&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### ▢`🍀SÍGUENOS EN NUESTRO IG🍀`
+### ▢`🍀𝙎𝙄𝙂𝙐𝙀𝙉𝙊𝙎 𝙀𝙉 𝙉𝙐𝙀𝙎𝙏𝙍𝙊 𝙄𝙂🍀`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sígueme+En+Instagram;No+seas+malx%3A3;)
 <a href="https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM_DEL_CREADOR-25D366?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-### ▢`🐼GRUPO DE VENTAS DEL BOT🐼`
+### ▢`🐼𝙂𝙍𝙐𝙋𝙊 𝘿𝙀 𝙑𝙀𝙉𝙏𝘼𝙎 𝘿𝙀𝙇 𝘽𝙊𝙏🐼`
 
 <a href="https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
-### ▢`—◉ 🤖 BOT OFICIAL 🤖`
+### ▢`—◉ 🤖𝘽𝙊𝙏 𝙊𝙁𝙄𝘾𝙄𝘼𝙇🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=59176818194&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/prueba.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
-### ▢`🖍 LETRA DEL BOT 🖍`
+### ▢`🖍𝙇𝙀𝙏𝙍𝘼 𝘿𝙀𝙇 𝘽𝙊𝙏🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
 
-### ▢`—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+### ▢`—◉ 🌌𝘼𝘾𝙏𝙄𝙑𝘼𝙍 𝙀𝙉 𝙍𝙀𝙋𝙇𝙄𝙏🌌`
 
 [![Run on Repl.it](https://repl.it/badge/github/Nayee22/Pruebas)](https://repl.it/github/Naye22/Pruebas)
 
-### ▢`—◉ 💥 ACTIVAR EN KOYEB 💥`
+### ▢`—◉ 💥𝘼𝘾𝙏𝙄𝙑𝘼𝙍 𝙀𝙉 𝙆𝙊𝙔𝙀𝘽💥`
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
 
-### ▢`—◉ ✨ ACTIVAR EN HEROKU ✨`
+### ▢`—◉ ✨𝘼𝘾𝙏𝙄𝙑𝘼𝙍 𝙀𝙉 𝙃𝙀𝙍𝙊𝙆𝙐✨`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU)
 
-### ▢`—◉ ⚙️ AJUSTES ⚙️`
+### ▢`—◉ ⚙️𝘼𝙅𝙐𝙎𝙏𝙀𝙎⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/blob/master/config.js)
 
-### ▢`—◉ 👾 ACTIVAR EN TERMUX 👾
+### ▢`—◉ 👾𝘼𝘾𝙏𝙄𝙑𝘼𝙍 𝙀𝙉 𝙏𝙀𝙍𝙈𝙐𝙓👾
 PRIMERA OPCIÓN `
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
@@ -68,7 +68,7 @@ wget -O - https://raw.githubusercontent.com/Karim-off/Adriel-Bot-MD/master/insta
 ```
 
 
-### ▢`—◉ 👾 ACTIVAR EN TERMUX 👾
+### ▢`—◉ 👾𝘼𝘾𝙏𝙄𝙑𝘼𝙍 𝙀𝙉 𝙏𝙀𝙍𝙈𝙐𝙓👾
 SEGUNDA OPCIÓN ` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
@@ -103,7 +103,7 @@ npm update
 npm start
 ```
 
-### ▢`—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+### ▢`—◉ ✔️𝘼𝘾𝙏𝙄𝙑𝘼𝙍 𝙀𝙉 𝘾𝘼𝙎𝙊 𝘿𝙀 𝘿𝙀𝙏𝙀𝙉𝙀𝙍𝙎𝙀 𝙀𝙉 𝙏𝙀𝙍𝙈𝙐𝙓✔️`
 
 ### ▢`ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
@@ -115,7 +115,7 @@ npm start
 > npm start
 ```
 
-### ▢`—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
+### ▢`—◉ 👽𝙊𝘽𝙏𝙀𝙉𝙀𝙍 𝙊𝙏𝙍𝙊 𝘾𝙊𝘿𝙄𝙂𝙊 𝙌𝙍 𝙀𝙉 𝙏𝙀𝙍𝙈𝙐𝙓👽`
  DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A HADES-BOT-MD $`
 
 ### ▢`ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
@@ -132,7 +132,7 @@ npm start
 > npm start
 ```
 
-### ▢`—◉ 📝 NOTAS 📝`
+### ▢`—◉ 📝 𝙉𝙊𝙏𝘼𝙎 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
