@@ -14,7 +14,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sígueme+En+Instagram;No+seas+malx%3A3;)
 
-<a href="https://chat.whatsapp.com/BCcSa1tr6796Ieu0GeimcV" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/BCcSa1tr6796Ieu0GeimcV" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
 ### ▢`⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
