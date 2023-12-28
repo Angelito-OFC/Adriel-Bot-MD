@@ -11,7 +11,7 @@ await conn.relayMessage(m.chat, msg.message, { messageId: msg.key.id })
 } catch {  
 
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @Karim.off || https://github.com/Karim-off/ ]
 **/  
     
 let users = participants.map(u => conn.decodeJid(u.id))
