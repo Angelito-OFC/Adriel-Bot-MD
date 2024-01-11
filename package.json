@@ -1,7 +1,7 @@
 {
-    "name": "HADES-BOT-OMEGA",
+    "name": "ADRIEL-BOT-MD",
     "version": "1.0.0",
-    "description": "SUSCRÍBETE A NUESTRO CANAL DE YOUTUBE HADES-BOT",
+    "description": "SUSCRÍBETE A NUESTRO IG usxr_karim",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
+    "homepage": "https://github.com/Karim-off/Adriel-Bot-MD",
     "author": {
-        "name": "OFC-YOVANI"
+        "name": "karim-off"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
+        "url": "git+https://github.com/Karim-off/Adriel-Bot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
+        "url": "https://github.com/Karim-off/Adriel-Bot-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
